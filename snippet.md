@@ -1,4 +1,4 @@
-## Docker Swarm
+## Docker
 ```
 docker swarm init
 ```
